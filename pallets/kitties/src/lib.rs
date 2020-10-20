@@ -11,6 +11,9 @@ use sp_std::result::Result;
 
 pub use pallet::*;
 
+#[cfg(test)]
+mod tests;
+
 #[derive(Encode, Decode, Clone, Copy, RuntimeDebug, PartialEq, Eq)]
 pub enum KittyGender {
 	Male,
