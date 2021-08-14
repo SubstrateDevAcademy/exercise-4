@@ -1,3 +1,19 @@
+# Substrate Runtime Developer Academy
+
+## Exercise Four
+
+1. Fork & clone this project
+2. Finish the implementation
+    - [./pallets/kitties/src/lib.rs](./pallets/kitties/src/lib.rs)
+    - Refactor `fn create`
+    - Finish `fn combine_dna`
+    - Finish `fn random_value`
+3. Design transfer feature for pallet-kitties
+4. Requirements:
+    - Kitty owner should be able to transfer a kitty to someone else
+
+---
+
 # Substrate Node Template
 
 [![Try on playground](https://img.shields.io/badge/Playground-Node_Template-brightgreen?logo=Parity%20Substrate)](https://playground.substrate.dev/?deploy=node-template)
