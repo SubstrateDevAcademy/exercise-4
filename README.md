@@ -12,6 +12,8 @@
 4. Requirements:
     - Kitty owner should be able to transfer a kitty to someone else
 
+Solution: https://github.com/SubstrateDevAcademy/exercise-4/commit/1bfd45f839e5374d3ef022684cb554e28e25917b
+
 ---
 
 # Substrate Node Template
